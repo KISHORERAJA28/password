@@ -1,0 +1,1 @@
+A simple Python script for creating strong, secure passwords. It contains random characters, numbers, and symbols, making each password secure and difficult to guess. Simply execute the script to generate a new password instantaneously. Customizable length is included!
